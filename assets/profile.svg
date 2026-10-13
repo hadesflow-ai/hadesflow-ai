@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1300" width="1000" height="1300" role="img" aria-label="HadesFlow. We automate the work. Then we keep it running. Custom software, AI automations and AI agents, built, hosted and managed for you. Up to 70% less time on repetitive tasks, 40% lower operating costs, 3x faster customer response. Services: custom software, AI automations, AI services, education and training, free audit and consultation. How it works: discovery, proposal, agreements, build and launch, managed service.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 950" width="1000" height="950" role="img" aria-label="HadesFlow. We automate the work. Then we keep it running. Custom software, AI automations and AI agents, built, hosted and managed for you. Eliminate manual work, unlock AI speed. Services: custom software, AI automations, AI services, education and training, free audit and consultation. How it works: discovery, proposal, agreements, build and launch, managed service.">
   <defs>
-    <clipPath id="win"><rect x="1" y="1" width="998" height="1298" rx="14"/></clipPath>
+    <clipPath id="win"><rect x="1" y="1" width="998" height="948" rx="14"/></clipPath>
     <radialGradient id="glow" cx="0.92" cy="0" r="0.55">
       <stop offset="0" stop-color="#DC2626" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
@@ -22,25 +22,25 @@
   @keyframes pulse { 0% { transform: scale(1); opacity: .55; } 70%, 100% { transform: scale(1.55); opacity: 0; } }
   @keyframes travel { 0% { transform: translateX(0); opacity: 0; } 8% { opacity: 1; } 82% { transform: translateX(372px); opacity: 1; } 90%, 100% { transform: translateX(372px); opacity: 0; } }
   @keyframes ring { 0%, 78%, 100% { fill-opacity: .14; } 86% { fill-opacity: .4; } }
-  .prog { transform-box: fill-box; transform-origin: left center; animation: prog 7.0s cubic-bezier(.4,0,.2,1) infinite; animation-delay: 5.18s; }
+  .prog { transform-box: fill-box; transform-origin: left center; animation: prog 7.0s cubic-bezier(.4,0,.2,1) infinite; animation-delay: 4.68s; }
   @keyframes prog { 0% { transform: scaleX(0); } 70%, 92% { transform: scaleX(1); opacity: 1; } 100% { transform: scaleX(1); opacity: 0; } }
-  .n0 { animation: n0 7.0s linear infinite; animation-delay: 5.18s; }
+  .n0 { animation: n0 7.0s linear infinite; animation-delay: 4.68s; }
   @keyframes n0 { 0%, 0.0% { fill: #0B0B10; } 0.0%, 92% { fill: #DC2626; } 100% { fill: #0B0B10; } }
-  .n1 { animation: n1 7.0s linear infinite; animation-delay: 5.18s; }
+  .n1 { animation: n1 7.0s linear infinite; animation-delay: 4.68s; }
   @keyframes n1 { 0%, 17.4% { fill: #0B0B10; } 17.5%, 92% { fill: #DC2626; } 100% { fill: #0B0B10; } }
-  .n2 { animation: n2 7.0s linear infinite; animation-delay: 5.18s; }
+  .n2 { animation: n2 7.0s linear infinite; animation-delay: 4.68s; }
   @keyframes n2 { 0%, 34.9% { fill: #0B0B10; } 35.0%, 92% { fill: #DC2626; } 100% { fill: #0B0B10; } }
-  .n3 { animation: n3 7.0s linear infinite; animation-delay: 5.18s; }
+  .n3 { animation: n3 7.0s linear infinite; animation-delay: 4.68s; }
   @keyframes n3 { 0%, 52.4% { fill: #0B0B10; } 52.5%, 92% { fill: #DC2626; } 100% { fill: #0B0B10; } }
-  .n4 { animation: n4 7.0s linear infinite; animation-delay: 5.18s; }
+  .n4 { animation: n4 7.0s linear infinite; animation-delay: 4.68s; }
   @keyframes n4 { 0%, 69.9% { fill: #0B0B10; } 70.0%, 92% { fill: #DC2626; } 100% { fill: #0B0B10; } }
   @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
   </defs>
   <g clip-path="url(#win)">
-  <rect width="1000" height="1300" fill="#0B0B10"/>
-  <rect width="1000" height="1300" fill="url(#glow)"/>
-  <rect width="1000" height="1300" fill="url(#scan)"/>
+  <rect width="1000" height="950" fill="#0B0B10"/>
+  <rect width="1000" height="950" fill="url(#glow)"/>
+  <rect width="1000" height="950" fill="url(#scan)"/>
   <rect width="1000" height="42" fill="#15151C"/>
   <path d="M0 42.5 H1000" stroke="#2A2A33"/>
   <circle cx="26" cy="21" r="6.5" fill="#DC2626"/><circle cx="48" cy="21" r="6.5" fill="#3F3F46"/><circle cx="70" cy="21" r="6.5" fill="#3F3F46"/>
@@ -74,124 +74,92 @@
     <text class="m" x="40" y="376" font-size="15" font-weight="700" fill="#71717A" text-anchor="start"><tspan fill="#EF4444">&gt;</tspan> about</text>
     <text class="m" x="40" y="412" font-size="22" font-weight="800" fill="#F4F4F5" text-anchor="start">Eliminate manual work. Unlock AI speed.</text>
   </g>
-  <g class="fi" style="animation-delay:3.28s">
-    <text class="m" x="40" y="466" font-size="38" font-weight="800" fill="#EF4444" text-anchor="start">70%</text>
-    <text class="m" x="136" y="448" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="start"><tspan fill="#71717A">up to</tspan> less time on</text>
-    <text class="m" x="136" y="467" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="start">repetitive tasks</text>
+  <path d="M40 442 H960" stroke="#2A2A33" stroke-dasharray="4 6"/>
+  <g class="fi" style="animation-delay:3.48s">
+    <text class="m" x="40" y="480" font-size="15" font-weight="700" fill="#71717A" text-anchor="start"><tspan fill="#EF4444">&gt;</tspan> services</text>
   </g>
-  <g class="fi" style="animation-delay:3.40s">
-    <text class="m" x="360" y="466" font-size="38" font-weight="800" fill="#EF4444" text-anchor="start">40%</text>
-    <text class="m" x="456" y="448" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="start"><tspan fill="#71717A">up to</tspan> lower operating</text>
-    <text class="m" x="456" y="467" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="start">costs</text>
-  </g>
-  <g class="fi" style="animation-delay:3.52s">
-    <text class="m" x="680" y="466" font-size="38" font-weight="800" fill="#EF4444" text-anchor="start">3x</text>
-    <text class="m" x="750" y="448" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="start"><tspan fill="#71717A">up to</tspan> faster customer</text>
-    <text class="m" x="750" y="467" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="start">response</text>
-  </g>
-  <path d="M40 500 H960" stroke="#2A2A33" stroke-dasharray="4 6"/>
-  <g class="fi" style="animation-delay:3.78s">
-    <text class="m" x="40" y="538" font-size="15" font-weight="700" fill="#71717A" text-anchor="start"><tspan fill="#EF4444">&gt;</tspan> services</text>
-    <text class="m" x="40" y="566" font-size="14" font-weight="400" fill="#71717A" text-anchor="start">From a single automation to a full custom system with AI inside - take one, or combine them.</text>
-  </g>
-  <g class="fi" style="animation-delay:3.98s">
-    <rect x="40" y="590" width="293" height="188" rx="10" fill="#111118" stroke="#2A2A33" stroke-opacity="1"/>
-    <g transform="translate(170.5 614)" fill="none" stroke="#EF4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <g class="fi" style="animation-delay:3.62s">
+    <rect x="40.0" y="502" width="171.2" height="150" rx="10" fill="#111118" stroke="#2A2A33" stroke-opacity="1"/>
+    <g transform="translate(109.6 524)" fill="none" stroke="#EF4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
       <rect x="4" y="5" width="24" height="16" rx="2"/><path d="M1 26 H31"/><path d="M13 10 L10 13 L13 16 M19 10 L22 13 L19 16"/>
     </g>
-    <text class="m" x="186.5" y="678" font-size="17" font-weight="800" fill="#F4F4F5" text-anchor="middle">Custom Software</text>
-    <text class="s" x="186.5" y="708" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">Bespoke software built around your</text>
-    <text class="s" x="186.5" y="729" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">business, with AI inside. We build,</text>
-    <text class="s" x="186.5" y="750" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">deploy and fully manage it.</text>
+    <text class="m" x="125.6" y="586" font-size="15" font-weight="800" fill="#F4F4F5" text-anchor="middle">Custom software</text>
+    <text class="s" x="125.6" y="612" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle">Built around your</text>
+    <text class="s" x="125.6" y="631" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle">business, AI inside</text>
   </g>
-  <g class="fi" style="animation-delay:4.10s">
-    <rect x="353.5" y="590" width="293" height="188" rx="10" fill="#111118" stroke="#2A2A33" stroke-opacity="1"/>
-    <g transform="translate(484.0 614)" fill="none" stroke="#EF4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <g class="fi" style="animation-delay:3.73s">
+    <rect x="227.2" y="502" width="171.2" height="150" rx="10" fill="#111118" stroke="#2A2A33" stroke-opacity="1"/>
+    <g transform="translate(296.79999999999995 524)" fill="none" stroke="#EF4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
       <circle cx="12" cy="13" r="4"/><circle cx="12" cy="13" r="8" stroke-dasharray="3.2 3"/>
       <circle cx="24" cy="24" r="2.5"/><circle cx="24" cy="24" r="5.5" stroke-dasharray="2.4 2.2"/>
     </g>
-    <text class="m" x="500.0" y="678" font-size="17" font-weight="800" fill="#F4F4F5" text-anchor="middle">AI Automations</text>
-    <text class="s" x="500.0" y="708" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">Save hours every week - from data</text>
-    <text class="s" x="500.0" y="729" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">entry to email workflows, built</text>
-    <text class="s" x="500.0" y="750" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">around your current tools.</text>
+    <text class="m" x="312.8" y="586" font-size="15" font-weight="800" fill="#F4F4F5" text-anchor="middle">AI automations</text>
+    <text class="s" x="312.8" y="612" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle">Hours back,</text>
+    <text class="s" x="312.8" y="631" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle">every week</text>
   </g>
-  <g class="fi" style="animation-delay:4.22s">
-    <rect x="667" y="590" width="293" height="188" rx="10" fill="#111118" stroke="#2A2A33" stroke-opacity="1"/>
-    <g transform="translate(797.5 614)" fill="none" stroke="#EF4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <g class="fi" style="animation-delay:3.83s">
+    <rect x="414.4" y="502" width="171.2" height="150" rx="10" fill="#111118" stroke="#2A2A33" stroke-opacity="1"/>
+    <g transform="translate(484.0 524)" fill="none" stroke="#EF4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
       <path d="M4 7 Q4 4 7 4 H25 Q28 4 28 7 V19 Q28 22 25 22 H14 L8 28 V22 H7 Q4 22 4 19 Z"/>
       <g fill="#EF4444" stroke="none"><circle cx="11" cy="13" r="1.8"/><circle cx="16" cy="13" r="1.8"/><circle cx="21" cy="13" r="1.8"/></g>
     </g>
-    <text class="m" x="813.5" y="678" font-size="17" font-weight="800" fill="#F4F4F5" text-anchor="middle">AI Services</text>
-    <text class="s" x="813.5" y="708" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">Smart AI agents for customer</text>
-    <text class="s" x="813.5" y="729" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">support, internal processes and</text>
-    <text class="s" x="813.5" y="750" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">content generation.</text>
+    <text class="m" x="500.0" y="586" font-size="15" font-weight="800" fill="#F4F4F5" text-anchor="middle">AI agents</text>
+    <text class="s" x="500.0" y="612" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle">Support and ops,</text>
+    <text class="s" x="500.0" y="631" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle">on autopilot</text>
   </g>
-  <g class="fi" style="animation-delay:4.34s">
-    <rect x="196.75" y="798" width="293" height="188" rx="10" fill="#111118" stroke="#2A2A33" stroke-opacity="1"/>
-    <g transform="translate(327.25 822)" fill="none" stroke="#EF4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <g class="fi" style="animation-delay:3.92s">
+    <rect x="601.6" y="502" width="171.2" height="150" rx="10" fill="#111118" stroke="#2A2A33" stroke-opacity="1"/>
+    <g transform="translate(671.1999999999999 524)" fill="none" stroke="#EF4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
       <path d="M2 12 L16 5 L30 12 L16 19 Z"/><path d="M8 15 V22 Q16 27 24 22 V15"/><path d="M30 12 V20"/>
     </g>
-    <text class="m" x="343.25" y="886" font-size="17" font-weight="800" fill="#F4F4F5" text-anchor="middle">Education &amp; Training</text>
-    <text class="s" x="343.25" y="916" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">Learn to build and run AI yourself -</text>
-    <text class="s" x="343.25" y="937" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">talks, 1-on-1 sessions or full</text>
-    <text class="s" x="343.25" y="958" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">hands-on courses for your team.</text>
+    <text class="m" x="687.2" y="586" font-size="15" font-weight="800" fill="#F4F4F5" text-anchor="middle">Training</text>
+    <text class="s" x="687.2" y="612" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle">Your team learns</text>
+    <text class="s" x="687.2" y="631" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle">to use AI</text>
   </g>
-  <g class="fi" style="animation-delay:4.46s">
-    <rect x="510.25" y="798" width="293" height="188" rx="10" fill="#111118" stroke="#DC2626" stroke-opacity="0.75"/>
-    <g transform="translate(640.75 822)" fill="none" stroke="#EF4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <g class="fi" style="animation-delay:4.03s">
+    <rect x="788.8" y="502" width="171.2" height="150" rx="10" fill="#111118" stroke="#DC2626" stroke-opacity="0.75"/>
+    <g transform="translate(858.4 524)" fill="none" stroke="#EF4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
       <rect x="6" y="5" width="20" height="24" rx="2"/><rect x="11" y="2" width="10" height="6" rx="1.5"/><path d="M11 18 L15 22 L22 14"/>
     </g>
-    <text class="m" x="656.75" y="886" font-size="17" font-weight="800" fill="#F4F4F5" text-anchor="middle">Free Audit &amp; Consultation</text>
-    <text class="s" x="656.75" y="916" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">Not sure where to start? We review</text>
-    <text class="s" x="656.75" y="937" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">your workflows and recommend what</text>
-    <text class="s" x="656.75" y="958" font-size="14" font-weight="400" fill="#A1A1AA" text-anchor="middle">to automate. No obligation.</text>
-    <rect x="737.25" y="812" width="52" height="22" rx="11" fill="url(#red)"/>
-    <text class="m" x="763.25" y="827" font-size="11" font-weight="800" fill="#FFFFFF" text-anchor="middle">FREE</text>
+    <text class="m" x="874.4" y="586" font-size="15" font-weight="800" fill="#F4F4F5" text-anchor="middle">Free audit</text>
+    <text class="s" x="874.4" y="612" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle">We show you what</text>
+    <text class="s" x="874.4" y="631" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle">to automate</text>
+    <rect x="908.0" y="512" width="44" height="20" rx="10" fill="url(#red)"/>
+    <text class="m" x="930.0" y="526" font-size="10" font-weight="800" fill="#FFFFFF" text-anchor="middle">FREE</text>
   </g>
-  <path d="M40 1018 H960" stroke="#2A2A33" stroke-dasharray="4 6"/>
-  <g class="fi" style="animation-delay:4.78s">
-    <text class="m" x="40" y="1056" font-size="15" font-weight="700" fill="#71717A" text-anchor="start"><tspan fill="#EF4444">&gt;</tspan> how it works</text>
-    <rect x="116" y="1098" width="768" height="4" rx="2" fill="#27272A"/>
-    <rect class="prog" x="116" y="1098" width="768" height="4" rx="2" fill="#DC2626"/>
-    <circle cx="116" cy="1100" r="15" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
-    <circle class="n0" cx="116" cy="1100" r="9" fill="#DC2626"/>
-    <text class="m" x="116" y="1146" font-size="16" font-weight="800" fill="#F4F4F5" text-anchor="middle">Discovery</text>
-    <rect x="91.2" y="1160" width="49.6" height="22" rx="11" fill="#DC2626" fill-opacity=".12" stroke="#DC2626" stroke-opacity=".5"/>
-    <text class="m" x="116" y="1175" font-size="11" font-weight="700" fill="#FCA5A5" text-anchor="middle">FREE</text>
-    <circle cx="308" cy="1100" r="15" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
-    <circle class="n1" cx="308" cy="1100" r="9" fill="#DC2626"/>
-    <text class="m" x="308" y="1146" font-size="16" font-weight="800" fill="#F4F4F5" text-anchor="middle">Proposal</text>
-    <rect x="249.9" y="1160" width="116.2" height="22" rx="11" fill="#DC2626" fill-opacity=".12" stroke="#DC2626" stroke-opacity=".5"/>
-    <text class="m" x="308" y="1175" font-size="11" font-weight="700" fill="#FCA5A5" text-anchor="middle">NO OBLIGATION</text>
-    <circle cx="500" cy="1100" r="15" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
-    <circle class="n2" cx="500" cy="1100" r="9" fill="#DC2626"/>
-    <text class="m" x="500" y="1146" font-size="16" font-weight="800" fill="#F4F4F5" text-anchor="middle">Agreements</text>
-    <rect x="449.3" y="1160" width="101.4" height="22" rx="11" fill="#DC2626" fill-opacity=".12" stroke="#DC2626" stroke-opacity=".5"/>
-    <text class="m" x="500" y="1175" font-size="11" font-weight="700" fill="#FCA5A5" text-anchor="middle">CLEAR TERMS</text>
-    <circle cx="692" cy="1100" r="15" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
-    <circle class="n3" cx="692" cy="1100" r="9" fill="#DC2626"/>
-    <text class="m" x="692" y="1146" font-size="16" font-weight="800" fill="#F4F4F5" text-anchor="middle">Build &amp; launch</text>
-    <rect x="659.8" y="1160" width="64.4" height="22" rx="11" fill="#DC2626" fill-opacity=".12" stroke="#DC2626" stroke-opacity=".5"/>
-    <text class="m" x="692" y="1175" font-size="11" font-weight="700" fill="#FCA5A5" text-anchor="middle">TESTED</text>
-    <circle cx="884" cy="1100" r="15" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
-    <circle class="n4" cx="884" cy="1100" r="9" fill="#DC2626"/>
-    <text class="m" x="884" y="1146" font-size="16" font-weight="800" fill="#F4F4F5" text-anchor="middle">Managed service</text>
-    <rect x="840.7" y="1160" width="86.6" height="22" rx="11" fill="#DC2626" fill-opacity=".12" stroke="#DC2626" stroke-opacity=".5"/>
-    <text class="m" x="884" y="1175" font-size="11" font-weight="700" fill="#FCA5A5" text-anchor="middle">SUPPORTED</text>
+  <path d="M40 686 H960" stroke="#2A2A33" stroke-dasharray="4 6"/>
+  <g class="fi" style="animation-delay:4.28s">
+    <text class="m" x="40" y="724" font-size="15" font-weight="700" fill="#71717A" text-anchor="start"><tspan fill="#EF4444">&gt;</tspan> how it works</text>
+    <rect x="116" y="766" width="768" height="4" rx="2" fill="#27272A"/>
+    <rect class="prog" x="116" y="766" width="768" height="4" rx="2" fill="#DC2626"/>
+    <circle cx="116" cy="768" r="15" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
+    <circle class="n0" cx="116" cy="768" r="9" fill="#DC2626"/>
+    <text class="m" x="116" y="814" font-size="16" font-weight="800" fill="#F4F4F5" text-anchor="middle">Discovery</text>
+    <circle cx="308" cy="768" r="15" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
+    <circle class="n1" cx="308" cy="768" r="9" fill="#DC2626"/>
+    <text class="m" x="308" y="814" font-size="16" font-weight="800" fill="#F4F4F5" text-anchor="middle">Proposal</text>
+    <circle cx="500" cy="768" r="15" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
+    <circle class="n2" cx="500" cy="768" r="9" fill="#DC2626"/>
+    <text class="m" x="500" y="814" font-size="16" font-weight="800" fill="#F4F4F5" text-anchor="middle">Agreements</text>
+    <circle cx="692" cy="768" r="15" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
+    <circle class="n3" cx="692" cy="768" r="9" fill="#DC2626"/>
+    <text class="m" x="692" y="814" font-size="16" font-weight="800" fill="#F4F4F5" text-anchor="middle">Build &amp; launch</text>
+    <circle cx="884" cy="768" r="15" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
+    <circle class="n4" cx="884" cy="768" r="9" fill="#DC2626"/>
+    <text class="m" x="884" y="814" font-size="16" font-weight="800" fill="#F4F4F5" text-anchor="middle">We run it</text>
   </g>
   <g>
-    <circle cx="58" cy="1226" r="20" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5"/>
-    <path d="M49 1221 L50.6 1224.4 L54 1226 L50.6 1227.6 L49 1231 L47.4 1227.6 L44 1226 L47.4 1224.4 Z" fill="#FFFFFF" fill-opacity="0.9"/>
-    <text class="s" x="55.5" y="1231" font-size="13" font-weight="700" fill="#FFFFFF" fill-opacity="0.9">AI</text>
+    <circle cx="58" cy="880" r="20" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5"/>
+    <path d="M49 875 L50.6 878.4 L54 880 L50.6 881.6 L49 885 L47.4 881.6 L44 880 L47.4 878.4 Z" fill="#FFFFFF" fill-opacity="0.9"/>
+    <text class="s" x="55.5" y="885" font-size="13" font-weight="700" fill="#FFFFFF" fill-opacity="0.9">AI</text>
   </g>
-    <text class="m" x="92" y="1231" font-size="12" font-weight="400" fill="#71717A" text-anchor="start">Figures are illustrative, based on typical projects - results vary and are not guaranteed.</text>
 
-  <rect x="0" y="1260" width="1000" height="40" fill="#15151C"/>
-  <path d="M0 1259.5 H1000" stroke="#2A2A33"/>
-  <rect x="0" y="1260" width="150" height="40" fill="#DC2626"/>
-  <text class="m" x="75" y="1285" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle">HADESFLOW</text>
-  <text class="m" x="170" y="1285" font-size="15" fill="#A1A1AA">AI automation agency</text>
-  <text class="m" x="976" y="1285" font-size="15" fill="#A1A1AA" text-anchor="end"><tspan fill="#EF4444">●</tspan> Sofia, Bulgaria</text>
+  <rect x="0" y="910" width="1000" height="40" fill="#15151C"/>
+  <path d="M0 909.5 H1000" stroke="#2A2A33"/>
+  <rect x="0" y="910" width="150" height="40" fill="#DC2626"/>
+  <text class="m" x="75" y="935" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle">HADESFLOW</text>
+  <text class="m" x="170" y="935" font-size="15" fill="#A1A1AA">AI automation agency</text>
+  <text class="m" x="976" y="935" font-size="15" fill="#A1A1AA" text-anchor="end"><tspan fill="#EF4444">●</tspan> Sofia, Bulgaria</text>
   </g>
-  <rect x="1" y="1" width="998" height="1298" rx="14" fill="none" stroke="#2A2A33" stroke-width="1.5"/>
+  <rect x="1" y="1" width="998" height="948" rx="14" fill="none" stroke="#2A2A33" stroke-width="1.5"/>
 </svg>

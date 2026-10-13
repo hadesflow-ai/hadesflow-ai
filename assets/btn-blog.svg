@@ -1,15 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 52" width="200" height="52" role="img" aria-label="cd blog/">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 52" width="220" height="52" role="img" aria-label="Read our blog">
   <defs>
     <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EF4444"/><stop offset="1" stop-color="#B91C1C"/></linearGradient>
     <style>
   .m { font-family: 'JetBrains Mono','Cascadia Code','SF Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace; }
-  .fi { animation: fi .5s ease-out both; }
+  .fi { animation: fi .6s ease-out both; }
   .blink { animation: blink 1s steps(1) infinite; }
-  @keyframes fi { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+  .dot { animation: travel 2.4s cubic-bezier(.45,0,.25,1) infinite; }
+  .ring { animation: ring 2.4s ease-out infinite; }
+  @keyframes fi { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
   @keyframes blink { 0%, 100% { fill-opacity: 1; } 50% { fill-opacity: 0; } }
-
-  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+  @keyframes pulse { 0% { transform: scale(1); opacity: .55; } 70%, 100% { transform: scale(1.55); opacity: 0; } }
+  @keyframes travel { 0% { transform: translateX(0); opacity: 0; } 8% { opacity: 1; } 82% { transform: translateX(372px); opacity: 1; } 90%, 100% { transform: translateX(372px); opacity: 0; } }
+  @keyframes ring { 0%, 78%, 100% { fill-opacity: .14; } 86% { fill-opacity: .4; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
   </defs>
-  <rect x="1" y="1" width="198" height="50" rx="10" fill="#0B0B10" stroke="#DC2626" stroke-width="2"/>
-  <text class="m" x="100.0" y="33.0" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan fill="#EF4444">&gt; </tspan>cd blog/<tspan class="blink" fill="#EF4444">_</tspan></text>
+  <rect x="1" y="1" width="218" height="50" rx="10" fill="#0B0B10" stroke="#DC2626" stroke-width="2"/>
+  <text class="m" x="110.0" y="33.0" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">Read our blog<tspan fill="#EF4444"> →</tspan></text>
 </svg>

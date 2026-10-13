@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 460" width="1000" height="460" role="img" aria-label="Terminal: hadesflow --hello. We automate the work. Then we keep it running. HadesFlow: custom software, AI automations and AI agents, from Sofia, Bulgaria.">
+  <defs>
+    <clipPath id="win"><rect x="1" y="1" width="998" height="458" rx="14"/></clipPath>
+    <radialGradient id="glow" cx="0.92" cy="0" r="0.75">
+      <stop offset="0" stop-color="#DC2626" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EF4444"/><stop offset="1" stop-color="#B91C1C"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#FFFFFF" fill-opacity="0.025"/></pattern>
+    <style>
+  .m { font-family: 'JetBrains Mono','Cascadia Code','SF Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace; }
+  .fi { animation: fi .5s ease-out both; }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes fi { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @keyframes blink { 0%, 100% { fill-opacity: 1; } 50% { fill-opacity: 0; } }
+
+  .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+  .dot { animation: travel 2.4s cubic-bezier(.45,0,.25,1) infinite; }
+  .ring { animation: ring 2.4s ease-out infinite; }
+  @keyframes pulse { 0% { transform: scale(1); opacity: .55; } 70%, 100% { transform: scale(1.55); opacity: 0; } }
+  @keyframes travel { 0% { transform: translateX(0); opacity: 0; } 8% { opacity: 1; } 82% { transform: translateX(372px); opacity: 1; } 90%, 100% { transform: translateX(372px); opacity: 0; } }
+  @keyframes ring { 0%, 78%, 100% { fill-opacity: .14; } 86% { fill-opacity: .4; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="1000" height="460" fill="#0B0B10"/>
+    <rect width="1000" height="460" fill="url(#glow)"/>
+    <rect width="1000" height="460" fill="url(#scan)"/>
+    <rect width="1000" height="42" fill="#15151C"/>
+    <path d="M0 42.5 H1000" stroke="#2A2A33"/>
+    <circle cx="26" cy="21" r="6.5" fill="#DC2626"/><circle cx="48" cy="21" r="6.5" fill="#3F3F46"/><circle cx="70" cy="21" r="6.5" fill="#3F3F46"/>
+    <text class="m" x="500.0" y="26" font-size="14" fill="#71717A" text-anchor="middle">hadesflow@sofia: ~</text>
+    <clipPath id="t1"><rect x="178.4" y="74" width="900" height="27.0">
+      <animate attributeName="width" dur="1.34s" fill="freeze" calcMode="discrete" values="0;0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6;140.4;151.2;162.0;172.8;183.6;194.4;900" keyTimes="0;0.2230;0.2639;0.3048;0.3457;0.3866;0.4275;0.4684;0.5093;0.5502;0.5911;0.6320;0.6729;0.7138;0.7546;0.7955;0.8364;0.8773;0.9182;0.9591;1"/>
+    </rect></clipPath>
+    <text class="m" x="40" y="92" font-size="18" font-weight="700"><tspan fill="#EF4444">hadesflow</tspan><tspan fill="#71717A">:~$</tspan></text>
+    <text class="m" x="180.4" y="92" font-size="18" fill="#F4F4F5" clip-path="url(#t1)">./hadesflow --hello</text>
+    <g class="fi" style="animation-delay:1.45s">
+      <text class="m" x="40" y="168" font-size="46" font-weight="800" fill="#F4F4F5" text-anchor="start">We automate the work.</text>
+      <text class="m" x="40" y="226" font-size="46" font-weight="800" fill="#EF4444" text-anchor="start">Then we keep it running.<tspan class="blink" fill="#EF4444">_</tspan></text>
+    </g>
+    <g class="fi" style="animation-delay:1.84s">
+      <g transform="translate(21 92) scale(.78)">
+        <path d="M150 300 C180 250 215 250 230 290 C245 330 205 345 200 310 C195 270 270 250 300 300 C325 340 360 330 370 300 C385 255 430 250 445 290 C455 320 420 330 425 300 C430 270 500 290 564 300" fill="none" stroke="#52525B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect class="pulse" x="564" y="264" width="72" height="72" rx="20" fill="none" stroke="#DC2626" stroke-width="3"/>
+        <rect x="564" y="264" width="72" height="72" rx="20" fill="url(#red)"/>
+        <g fill="#FFFFFF"><circle cx="582" cy="300" r="7"/><circle cx="600" cy="300" r="7"/><circle cx="618" cy="300" r="7"/></g>
+        <path d="M636 300 H1022" stroke="#DC2626" stroke-width="5" stroke-linecap="round"/>
+        <circle class="dot" cx="644" cy="300" r="8" fill="#FCA5A5" stroke="#DC2626" stroke-width="3"/>
+        <circle class="ring" cx="1050" cy="300" r="28" fill="#DC2626" fill-opacity=".14" stroke="#DC2626" stroke-width="4"/>
+        <path d="M1038 301 L1047 310 L1063 291" fill="none" stroke="#DC2626" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <rect x="0" y="420" width="1000" height="40" fill="#15151C"/>
+    <path d="M0 419.5 H1000" stroke="#2A2A33"/>
+    <rect x="0" y="420" width="150" height="40" fill="#DC2626"/>
+    <text class="m" x="75" y="445" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle">HADESFLOW</text>
+    <text class="m" x="170" y="445" font-size="15" fill="#A1A1AA">custom software · AI automations · AI agents</text>
+    <text class="m" x="976" y="445" font-size="15" fill="#A1A1AA" text-anchor="end"><tspan fill="#EF4444">●</tspan> Sofia, Bulgaria</text>
+    <g>
+      <circle cx="44" cy="382" r="20" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5"/>
+      <path d="M35 377 L36.6 380.4 L40 382 L36.6 383.6 L35 387 L33.4 383.6 L30 382 L33.4 380.4 Z" fill="#FFFFFF" fill-opacity="0.9"/>
+      <text x="41.5" y="387" font-size="13" font-weight="700" fill="#FFFFFF" fill-opacity="0.9" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">AI</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="998" height="458" rx="14" fill="none" stroke="#2A2A33" stroke-width="1.5"/>
+</svg>

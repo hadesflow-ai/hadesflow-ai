@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-label="How it works: Discovery (free call), Proposal (no obligation), Agreements (clear terms), Build and launch (tested), Managed service (we host, monitor, update and support it).">
+  <defs>
+    <clipPath id="win"><rect x="1" y="1" width="998" height="358" rx="14"/></clipPath>
+    <radialGradient id="glow" cx="0.92" cy="0" r="0.75">
+      <stop offset="0" stop-color="#DC2626" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EF4444"/><stop offset="1" stop-color="#B91C1C"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#FFFFFF" fill-opacity="0.025"/></pattern>
+    <style>
+  .m { font-family: 'JetBrains Mono','Cascadia Code','SF Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace; }
+  .fi { animation: fi .5s ease-out both; }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes fi { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @keyframes blink { 0%, 100% { fill-opacity: 1; } 50% { fill-opacity: 0; } }
+
+  .prog { transform-box: fill-box; transform-origin: left center; animation: prog 7.0s cubic-bezier(.4,0,.2,1) infinite; animation-delay: 1.79s; }
+  @keyframes prog { 0% { transform: scaleX(0); } 70%, 92% { transform: scaleX(1); opacity: 1; } 100% { transform: scaleX(1); opacity: 0; } }
+  .n0 { animation: n0 7.0s linear infinite; animation-delay: 1.79s; }
+  @keyframes n0 { 0%, 0.0% { fill: #0B0B10; } 0.0%, 92% { fill: #DC2626; } 100% { fill: #0B0B10; } }
+  .n1 { animation: n1 7.0s linear infinite; animation-delay: 1.79s; }
+  @keyframes n1 { 0%, 17.4% { fill: #0B0B10; } 17.5%, 92% { fill: #DC2626; } 100% { fill: #0B0B10; } }
+  .n2 { animation: n2 7.0s linear infinite; animation-delay: 1.79s; }
+  @keyframes n2 { 0%, 34.9% { fill: #0B0B10; } 35.0%, 92% { fill: #DC2626; } 100% { fill: #0B0B10; } }
+  .n3 { animation: n3 7.0s linear infinite; animation-delay: 1.79s; }
+  @keyframes n3 { 0%, 52.4% { fill: #0B0B10; } 52.5%, 92% { fill: #DC2626; } 100% { fill: #0B0B10; } }
+  .n4 { animation: n4 7.0s linear infinite; animation-delay: 1.79s; }
+  @keyframes n4 { 0%, 69.9% { fill: #0B0B10; } 70.0%, 92% { fill: #DC2626; } 100% { fill: #0B0B10; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="1000" height="360" fill="#0B0B10"/>
+    <rect width="1000" height="360" fill="url(#glow)"/>
+    <rect width="1000" height="360" fill="url(#scan)"/>
+    <rect width="1000" height="42" fill="#15151C"/>
+    <path d="M0 42.5 H1000" stroke="#2A2A33"/>
+    <circle cx="26" cy="21" r="6.5" fill="#DC2626"/><circle cx="48" cy="21" r="6.5" fill="#3F3F46"/><circle cx="70" cy="21" r="6.5" fill="#3F3F46"/>
+    <text class="m" x="500.0" y="26" font-size="14" fill="#71717A" text-anchor="middle">~/how-it-works</text>
+    <clipPath id="t4"><rect x="178.4" y="74" width="900" height="27.0">
+      <animate attributeName="width" dur="1.29s" fill="freeze" calcMode="discrete" values="0;0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6;140.4;151.2;162.0;172.8;183.6;900" keyTimes="0;0.2326;0.2752;0.3178;0.3605;0.4031;0.4457;0.4884;0.5310;0.5736;0.6163;0.6589;0.7016;0.7442;0.7868;0.8295;0.8721;0.9147;0.9574;1"/>
+    </rect></clipPath>
+    <text class="m" x="40" y="92" font-size="18" font-weight="700"><tspan fill="#EF4444">hadesflow</tspan><tspan fill="#71717A">:~$</tspan></text>
+    <text class="m" x="180.4" y="92" font-size="18" fill="#F4F4F5" clip-path="url(#t4)">./start-project.sh</text>
+    <g class="fi" style="animation-delay:1.39s">
+      <rect x="110" y="178" width="780" height="4" rx="2" fill="#27272A"/>
+      <rect class="prog" x="110" y="178" width="780" height="4" rx="2" fill="#DC2626"/>
+      <circle cx="110" cy="180" r="17" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
+      <circle class="n0" cx="110" cy="180" r="10" fill="#DC2626"/>
+      <text class="m" x="110" y="236" font-size="17" font-weight="700" fill="#F4F4F5" text-anchor="middle">Discovery</text>
+      <text class="m" x="110" y="262" font-size="14" font-weight="400" fill="#71717A" text-anchor="middle">free call</text>
+      <circle cx="305" cy="180" r="17" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
+      <circle class="n1" cx="305" cy="180" r="10" fill="#DC2626"/>
+      <text class="m" x="305" y="236" font-size="17" font-weight="700" fill="#F4F4F5" text-anchor="middle">Proposal</text>
+      <text class="m" x="305" y="262" font-size="14" font-weight="400" fill="#71717A" text-anchor="middle">no obligation</text>
+      <circle cx="500" cy="180" r="17" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
+      <circle class="n2" cx="500" cy="180" r="10" fill="#DC2626"/>
+      <text class="m" x="500" y="236" font-size="17" font-weight="700" fill="#F4F4F5" text-anchor="middle">Agreements</text>
+      <text class="m" x="500" y="262" font-size="14" font-weight="400" fill="#71717A" text-anchor="middle">clear terms</text>
+      <circle cx="695" cy="180" r="17" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
+      <circle class="n3" cx="695" cy="180" r="10" fill="#DC2626"/>
+      <text class="m" x="695" y="236" font-size="17" font-weight="700" fill="#F4F4F5" text-anchor="middle">Build &amp; launch</text>
+      <text class="m" x="695" y="262" font-size="14" font-weight="400" fill="#71717A" text-anchor="middle">tested</text>
+      <circle cx="890" cy="180" r="17" fill="#0B0B10" stroke="#DC2626" stroke-width="3"/>
+      <circle class="n4" cx="890" cy="180" r="10" fill="#DC2626"/>
+      <text class="m" x="890" y="236" font-size="17" font-weight="700" fill="#F4F4F5" text-anchor="middle">Managed service</text>
+      <text class="m" x="890" y="262" font-size="14" font-weight="400" fill="#71717A" text-anchor="middle">we run it</text>
+    </g>
+    <g class="fi" style="animation-delay:1.89s">
+      <text class="m" x="40" y="330" font-size="16" font-weight="400" fill="#A1A1AA" text-anchor="start"><tspan fill="#EF4444">✓</tspan> we host, monitor, update and support it under your plan</text>
+    </g>
+
+  </g>
+  <rect x="1" y="1" width="998" height="358" rx="14" fill="none" stroke="#2A2A33" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 510" width="1000" height="510" role="img" aria-label="Services: custom software with AI inside; AI automations; AI services (agents for support, internal processes and content); education and training; free audit and consultation.">
+  <defs>
+    <clipPath id="win"><rect x="1" y="1" width="998" height="508" rx="14"/></clipPath>
+    <radialGradient id="glow" cx="0.92" cy="0" r="0.75">
+      <stop offset="0" stop-color="#DC2626" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EF4444"/><stop offset="1" stop-color="#B91C1C"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#FFFFFF" fill-opacity="0.025"/></pattern>
+    <style>
+  .m { font-family: 'JetBrains Mono','Cascadia Code','SF Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace; }
+  .fi { animation: fi .5s ease-out both; }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes fi { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @keyframes blink { 0%, 100% { fill-opacity: 1; } 50% { fill-opacity: 0; } }
+
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="1000" height="510" fill="#0B0B10"/>
+    <rect width="1000" height="510" fill="url(#glow)"/>
+    <rect width="1000" height="510" fill="url(#scan)"/>
+    <rect width="1000" height="42" fill="#15151C"/>
+    <path d="M0 42.5 H1000" stroke="#2A2A33"/>
+    <circle cx="26" cy="21" r="6.5" fill="#DC2626"/><circle cx="48" cy="21" r="6.5" fill="#3F3F46"/><circle cx="70" cy="21" r="6.5" fill="#3F3F46"/>
+    <text class="m" x="500.0" y="26" font-size="14" fill="#71717A" text-anchor="middle">~/services</text>
+    <clipPath id="t3"><rect x="178.4" y="74" width="900" height="27.0">
+      <animate attributeName="width" dur="0.96s" fill="freeze" calcMode="discrete" values="0;0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;900" keyTimes="0;0.3125;0.3698;0.4271;0.4844;0.5417;0.5990;0.6562;0.7135;0.7708;0.8281;0.8854;0.9427;1"/>
+    </rect></clipPath>
+    <text class="m" x="40" y="92" font-size="18" font-weight="700"><tspan fill="#EF4444">hadesflow</tspan><tspan fill="#71717A">:~$</tspan></text>
+    <text class="m" x="180.4" y="92" font-size="18" fill="#F4F4F5" clip-path="url(#t3)">ls services/</text>
+    <g class="fi" style="animation-delay:1.06s">
+      <text class="m" x="40" y="132" font-size="15" font-weight="400" fill="#71717A" text-anchor="start"># from a single automation to a full custom system - take one, or combine them</text>
+    </g>
+    <g class="fi" style="animation-delay:1.36s">
+      <rect x="40" y="165" width="4" height="46" rx="2" fill="#DC2626"/>
+      <text class="m" x="60" y="182" font-size="20" font-weight="700" fill="#F4F4F5" text-anchor="start">custom-software/</text>
+      <text class="m" x="60" y="209" font-size="16" font-weight="400" fill="#A1A1AA" text-anchor="start">Bespoke software built around your business, with AI where it adds value.</text>
+      <text class="m" x="960" y="182" font-size="14" font-weight="400" fill="#71717A" text-anchor="end">built · hosted · managed</text>
+    </g>
+    <g class="fi" style="animation-delay:1.54s">
+      <rect x="40" y="235" width="4" height="46" rx="2" fill="#DC2626"/>
+      <text class="m" x="60" y="252" font-size="20" font-weight="700" fill="#F4F4F5" text-anchor="start">ai-automations/</text>
+      <text class="m" x="60" y="279" font-size="16" font-weight="400" fill="#A1A1AA" text-anchor="start">Save hours every week - data entry, email workflows and much more.</text>
+      <text class="m" x="960" y="252" font-size="14" font-weight="400" fill="#71717A" text-anchor="end">on your current tools</text>
+    </g>
+    <g class="fi" style="animation-delay:1.72s">
+      <rect x="40" y="305" width="4" height="46" rx="2" fill="#DC2626"/>
+      <text class="m" x="60" y="322" font-size="20" font-weight="700" fill="#F4F4F5" text-anchor="start">ai-services/</text>
+      <text class="m" x="60" y="349" font-size="16" font-weight="400" fill="#A1A1AA" text-anchor="start">Smart AI agents for customer support, internal processes and content.</text>
+      <text class="m" x="960" y="322" font-size="14" font-weight="400" fill="#71717A" text-anchor="end">support · ops · content</text>
+    </g>
+    <g class="fi" style="animation-delay:1.90s">
+      <rect x="40" y="375" width="4" height="46" rx="2" fill="#DC2626"/>
+      <text class="m" x="60" y="392" font-size="20" font-weight="700" fill="#F4F4F5" text-anchor="start">training/</text>
+      <text class="m" x="60" y="419" font-size="16" font-weight="400" fill="#A1A1AA" text-anchor="start">Learn to build and run AI and automation yourself, as a team.</text>
+      <text class="m" x="960" y="392" font-size="14" font-weight="400" fill="#71717A" text-anchor="end">talks · 1-on-1 · courses</text>
+    </g>
+    <g class="fi" style="animation-delay:2.08s">
+      <rect x="40" y="445" width="4" height="46" rx="2" fill="#DC2626"/>
+      <text class="m" x="60" y="462" font-size="20" font-weight="700" fill="#F4F4F5" text-anchor="start">free-audit/</text>
+      <text class="m" x="60" y="489" font-size="16" font-weight="400" fill="#A1A1AA" text-anchor="start">We review your workflows and recommend what to automate. No obligation.</text>
+      <rect x="890" y="443" width="70" height="26" rx="13" fill="url(#red)"/>
+      <text class="m" x="925" y="461" font-size="14" font-weight="800" fill="#FFFFFF" text-anchor="middle">FREE</text>
+    </g>
+
+  </g>
+  <rect x="1" y="1" width="998" height="508" rx="14" fill="none" stroke="#2A2A33" stroke-width="1.5"/>
+</svg>
